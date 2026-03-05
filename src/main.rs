@@ -2,6 +2,9 @@ fn add(a: i32, b: i32) -> i32 {
     a + b
 }
 
+/*
+This function performs subtraction of two integers. It takes two `i32` integers as parameters and returns their difference.
+ */
 fn subtract(a: i32, b: i32) -> i32 {
     a - b
 }
