@@ -9,6 +9,9 @@ fn subtract(a: i32, b: i32) -> i32 {
     a - b
 }
 
+/*
+The `main` function serves as the entry point of the program. It demonstrates the usage of the `add` and `subtract` functions by calling them with sample values and printing the results to the console.
+ */
 fn main() {
     let sum = add(5, 3);
     println!("The sum is: {}", sum);
